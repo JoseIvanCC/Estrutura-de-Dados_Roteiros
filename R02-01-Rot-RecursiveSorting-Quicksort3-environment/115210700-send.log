@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<head/><log>
+<record>
+  <date>2016-11-28T14:26:00.775-0300</date>
+  <logger>JOSE IVAN SILVA DA CRUZ JUNIOR</logger>
+  <level>FINE</level>
+  <message>File 115210700-JOSE IVAN SILVA DA CRUZ JUNIOR.zip was received. It was sent by JOSE IVAN SILVA DA CRUZ JUNIOR from IP 150.165.74.113</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-11-28T23:25:36.240-0300</date>
+  <logger>JOSE IVAN SILVA DA CRUZ JUNIOR</logger>
+  <level>FINE</level>
+  <message>File 115210700-JOSE IVAN SILVA DA CRUZ JUNIOR.zip was received. It was sent by JOSE IVAN SILVA DA CRUZ JUNIOR from IP 127.0.1.1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-11-28T23:29:55.678-0300</date>
+  <logger>JOSE IVAN SILVA DA CRUZ JUNIOR</logger>
+  <level>FINE</level>
+  <message>File 115210700-JOSE IVAN SILVA DA CRUZ JUNIOR.zip was received. It was sent by JOSE IVAN SILVA DA CRUZ JUNIOR from IP 127.0.1.1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-11-28T23:32:35.605-0300</date>
+  <logger>JOSE IVAN SILVA DA CRUZ JUNIOR</logger>
+  <level>FINE</level>
+  <message>File 115210700-JOSE IVAN SILVA DA CRUZ JUNIOR.zip was received. It was sent by JOSE IVAN SILVA DA CRUZ JUNIOR from IP 127.0.1.1</message>
+</record>

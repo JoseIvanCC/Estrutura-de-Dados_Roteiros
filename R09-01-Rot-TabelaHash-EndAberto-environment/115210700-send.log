@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-02-06T14:07:23.429-0300</date>
+  <logger>JOSE IVAN SILVA DA CRUZ JUNIOR</logger>
+  <level>FINE</level>
+  <message>File 115210700-JOSE IVAN SILVA DA CRUZ JUNIOR.zip was received. It was sent by JOSE IVAN SILVA DA CRUZ JUNIOR from IP 127.0.1.1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-02-06T22:43:02.038-0300</date>
+  <logger>JOSE IVAN SILVA DA CRUZ JUNIOR</logger>
+  <level>FINE</level>
+  <message>File 115210700-JOSE IVAN SILVA DA CRUZ JUNIOR.zip was received. It was sent by JOSE IVAN SILVA DA CRUZ JUNIOR from IP 127.0.1.1</message>
+</record>
